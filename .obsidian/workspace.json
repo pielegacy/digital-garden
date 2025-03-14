@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "29fe82901042992c",
+        "id": "f624c50751c0dc69",
         "type": "tabs",
         "children": [
           {
-            "id": "4cefcf0827a7b9c2",
+            "id": "95e375ffaecbff57",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,11 +175,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cefcf0827a7b9c2",
+  "active": "95e375ffaecbff57",
   "lastOpenFiles": [
+    "Consume/Tech/2025 Build ⁉️⁉️⁉️.md",
+    "Attachments/Pasted image 20250314210302.png",
     "LICENSE",
     "Attachments/blood_west_1.png",
-    "Consume/Tech/2025 Build ⁉️⁉️⁉️.md",
     "Consume/Games/Straftat.md",
     "Consume/Tech",
     "Consume/PC Building.md",

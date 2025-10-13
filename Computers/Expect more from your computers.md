@@ -1,3 +1,0 @@
-When I say computers, this is inclusive of all things to do with the computer. Overwhelmingly the standards are deteriorating for the devices we buy, the software we use, the digital experiences we have...
-
-Acknowledging this reality is one thing, but I would argue that the gradual enshittification of technology has presented us with an opportunities. 
